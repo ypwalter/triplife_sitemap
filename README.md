@@ -1,1 +1,2 @@
-"# triplife_sitemap" 
+https://triplife.tw/
+https://walomi.blogspot.com/
